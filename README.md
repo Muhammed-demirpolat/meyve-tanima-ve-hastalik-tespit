@@ -88,6 +88,7 @@ python src/app.py
 ## 🖼️ Veri Setini GitHub'a Yükleyemedim 
 
 Veri seti büyük olduğu için GitHub repo limitsiz değil. Bunun yerine:
+ekran görüntülerini ekledim . sorularınız için iletişime geçebilirsiniz
 
 * `data/train/` klasör yapısının içine her sınıfı ayrı ayrı ekleyip çalıştırabilirsiniz 
 * eğer projedeki veriseti size lazımsa kaggle.org dan indirebilirsiniz 
